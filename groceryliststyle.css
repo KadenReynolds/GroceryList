@@ -87,6 +87,8 @@ li{
   bottom: 210px;
   background-image: url(https://media.istockphoto.com/id/1302554065/photo/organised-pantry-items-in-storage-room-with-nonperishable-food-staples-preserved-foods-healty.jpg?s=612x612&w=0&k=20&c=WrFSFJyXAaZjarjf_5-2cbGrzroYAvLPrtluLFm7_YA=);
   background-size: cover;
+  padding-left: 0px;
+  padding-right: 50px;
 }
 
 #bottomimagediv{
@@ -101,4 +103,6 @@ li{
   bottom: 410px;
   background-image: url(https://media.istockphoto.com/id/1182170375/photo/freezing-your-food-prevents-wastage.jpg?s=612x612&w=0&k=20&c=Dv-3U6F4SIWFulRkV5W-P0_1KpLrOiXfIhI3zd7iXvk=);
   background-size: cover;
+  padding-left: 0px;
+  padding-right: 50px;
 }
