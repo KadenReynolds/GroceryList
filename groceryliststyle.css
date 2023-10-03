@@ -1,0 +1,104 @@
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 45px;
+  font-weight: 300;
+  color: rgb(61, 128, 105);
+}
+
+h2{
+  border: solid 3px black;
+  background-color:rgb(255, 237, 210);
+  padding: 7px;
+  font-size: 35px;
+  font-weight: lighter;
+  width: 550px;
+}
+
+#leftdiv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+#rightdiv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+  margin-left: 310px;
+  margin-bottom: 0px;
+  position: relative;
+  bottom: 255px;
+}
+
+h4{
+  font-size: 30px;
+  font-variant: small-caps;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+li{
+  font-weight: bold;
+  padding: 2px;
+}
+
+#bottomdiv{
+  position: relative;
+  bottom: 200px;
+}
+
+#bottomrightdiv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+  margin-left: 310px;
+  position: relative;
+  bottom: 455px;
+}
+
+#bottomleftdiv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+}
+
+#imagediv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  position: relative;
+  bottom: 210px;
+  background-image: url(https://media.istockphoto.com/id/1302554065/photo/organised-pantry-items-in-storage-room-with-nonperishable-food-staples-preserved-foods-healty.jpg?s=612x612&w=0&k=20&c=WrFSFJyXAaZjarjf_5-2cbGrzroYAvLPrtluLFm7_YA=);
+  background-size: cover;
+}
+
+#bottomimagediv{
+  background-color: rgb(184, 183, 183);
+  width: 250px;
+  height: 200px;
+  border: 5px solid black;
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  position: relative;
+  bottom: 410px;
+  background-image: url(https://media.istockphoto.com/id/1182170375/photo/freezing-your-food-prevents-wastage.jpg?s=612x612&w=0&k=20&c=Dv-3U6F4SIWFulRkV5W-P0_1KpLrOiXfIhI3zd7iXvk=);
+  background-size: cover;
+}
